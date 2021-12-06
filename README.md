@@ -28,10 +28,10 @@
 <a href="https://github.com/rafaelpdemelo/github-readme-stats">
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelpdemelo&show_icons=true&theme=radical" />
 </a>
-</div>
+
 <a href="https://github.com/rafaelpdemelo/github-readme-stats">
   <img height="200em" align="center" style="padding-bottom: 50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpdemelo&layout=compact" />
 </a>
-
+</div>
 
 ----------------------------------------------------------------------------------
