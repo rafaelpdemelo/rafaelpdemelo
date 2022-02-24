@@ -6,7 +6,7 @@
 
  
 
-:computer: Desenvolvedor ainda em formação
+:computer: Desenvolvedor Frontend ainda em formação
 
 :house_with_garden: Sou de Recife - PE | Brasil
 
