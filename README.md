@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://github.com/rafaelpdemelo/github-readme-stats">
-  <img width="50%" height="200em" align="center" style="padding-bottom: 50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpdemelo&layout=compact" />
+  <img width="100%" height="200em" align="center" style="padding-bottom: 50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpdemelo&layout=compact" />
 </a>
 
 
