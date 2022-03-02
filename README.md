@@ -1,18 +1,8 @@
 # Olá, seja bem vindo ao meu Git! :smile:
 
-<img width="1100" alt="dev js (3)" src="https://user-images.githubusercontent.com/63520209/156370315-36c78125-7f25-42f1-8465-63fe85d68f8b.png">
-
-
 ## Eu sou Rafael Pereira
 
- 
-
-:computer: Desenvolvedor Frontend ainda em formação
-
-:house_with_garden: Sou de Recife - PE | Brasil
-
-:books: Universidade Católica de Pernambuco - PE | Ciência da Computação
-
+<img width="1100" alt="dev js (3)" src="https://user-images.githubusercontent.com/63520209/156370315-36c78125-7f25-42f1-8465-63fe85d68f8b.png">
 
 ## 🙎🏻‍♂️ Sobre mim:
 
