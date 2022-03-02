@@ -2,7 +2,8 @@
 
 ## Eu sou Rafael Pereira
 
-<img width="1100" alt="dev js (3)" src="https://user-images.githubusercontent.com/63520209/156370315-36c78125-7f25-42f1-8465-63fe85d68f8b.png">
+<img width="1100" alt="dev js (4)" src="https://user-images.githubusercontent.com/63520209/156371247-1703812a-53c0-4710-83c6-863ed1c28799.png">
+
 
 ## 🙎🏻‍♂️ Sobre mim:
 
