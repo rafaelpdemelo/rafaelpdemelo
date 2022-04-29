@@ -1,29 +1,45 @@
-# Olá, seja bem vindo ao meu Git! :smile:
-
-## Eu sou Rafael Pereira
+Hi 👋 My name is Rafael Pereira
+===============================
 
 <img width="1100" alt="dev js (4)" src="https://user-images.githubusercontent.com/63520209/156371247-1703812a-53c0-4710-83c6-863ed1c28799.png">
 
+Frontend Developer
+------------------
 
-## 🙎🏻‍♂️ Sobre mim:
+* 🌍  I'm based in Recife - Brazil
+* 🖥️  See my portfolio at [My Portfolio](http://rafaelpdemelo.cc)
+* ✉️  You can contact me at [devrafaelpdemelo@gmail.com](mailto:devrafaelpdemelo@gmail.com)
+* 🚀  I'm currently working on [Liferay Inc.](http://liferay.com)
+* 🧠  I'm learning ReactJS
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelpdemelo)](https://github.com/rafaelpdemelo) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelpdemelo/)]( https://www.linkedin.com/in/rafaelpdemelo/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=black&link=https://instagram.com/rafaelpdemelo)]( https://instagram.com/rafaelpdemelo) 
+<a href="https://www.twitter.com/rafaelpdemelo" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/rafaelpdemelo?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
+/></a>
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
 
-## Algumas linguagens e conhecimentos que possuo: 
+### Socials
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/reactJS-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
- <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/> 
+<p align="left"> <a href="https://www.github.com/rafaelpdemelo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rafaelpdemelo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rafaelpdemelo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rafaelpdemelo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-## Usados com mais frequência aqui no meu git! 
+### Badges
 
-<a href="https://github.com/rafaelpdemelo/github-readme-stats">
-  <img  height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelpdemelo&show_icons=true&theme=radical" />
-</a>
+<b>My GitHub Stats</b>
 
-<a href="https://github.com/rafaelpdemelo/github-readme-stats">
-  <img  height="200em" align="center" style="padding-bottom: 50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpdemelo&layout=compact" />
-</a>
+<a href="http://www.github.com/rafaelpdemelo"><img src="https://github-readme-stats.vercel.app/api?username=rafaelpdemelo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="rafaelpdemelo's GitHub stats" /></a>
 
-
-----------------------------------------------------------------------------------
+<a href="http://www.github.com/rafaelpdemelo"><img src="https://activity-graph.herokuapp.com/graph?username=rafaelpdemelo&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
