@@ -12,10 +12,6 @@ Frontend Developer
 * 🚀  I'm currently working on [Liferay Inc.](http://liferay.com)
 * 🧠  I'm learning ReactJS
 
-<a href="https://www.twitter.com/rafaelpdemelo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/rafaelpdemelo?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 <p align="left">
