@@ -10,7 +10,7 @@ Frontend Developer
 * 🖥️  See my portfolio at [My Portfolio](http://rafaelpdemelo.cc)
 * ✉️  You can contact me at [devrafaelpdemelo@gmail.com](mailto:devrafaelpdemelo@gmail.com)
 * 🚀  I'm currently working on [Liferay Inc.](http://liferay.com)
-* 🧠  I'm learning ReactJS
+* 🧠  I'm learning Docker, Kubernetes and others technologies envolving Cloud
 
 ### Skills
 
