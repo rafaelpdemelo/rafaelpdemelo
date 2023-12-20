@@ -7,7 +7,7 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in Recife - Brazil
-* 🖥️  See my portfolio at [My Portfolio](http://rafaelpdemelo.cc)
+* 🖥️  See [more about me](https://bento.me/rafaelpdemelo)
 * ✉️  You can contact me at [devrafaelpdemelo@gmail.com](mailto:devrafaelpdemelo@gmail.com)
 * 🚀  I'm currently working on [Liferay Inc.](http://liferay.com)
 * 🧠  I'm learning Docker, Kubernetes and others technologies envolving Cloud
