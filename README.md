@@ -1,4 +1,4 @@
-<img width="1100" alt="dev js (4)" src="https://raw.githubusercontent.com/rafaelpdemelo/rafaelpdemelo/main/carbon%20(4).png">
+<img width="1100" alt="dev js (4)" src="https://raw.githubusercontent.com/rafaelpdemelo/rafaelpdemelo/main/carbon%20(5).png">
 
 <h1 align="center">Hi 👋, I'm Rafael Pereira</h1>
 <h3 align="center">A Cloud Software Engineer</h3>
