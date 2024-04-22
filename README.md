@@ -1,4 +1,4 @@
-<img width="1100" alt="dev js (4)" src="https://user-images.githubusercontent.com/63520209/156371247-1703812a-53c0-4710-83c6-863ed1c28799.png">
+<img width="1100" alt="dev js (4)" src="https://raw.githubusercontent.com/rafaelpdemelo/rafaelpdemelo/main/carbon%20(4).png">
 
 <h1 align="center">Hi 👋, I'm Rafael Pereira</h1>
 <h3 align="center">A Cloud Software Engineer</h3>
