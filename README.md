@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rafael Pereira</h1>
 
-<h3 align="center">A Cloud Security Engineer building products, Platforms and Infrastructure</h3>
+<h3 align="center">A Sr Security Specialist building products, Platforms and Infrastructure</h3>
 
 ---
 
 ### 👨‍💻 About me
 
-I'm a Cloud Security Engineer focused on building reliable, scalable and useful digital products.
+I'm a Sr Security Specialist focused on building reliable, scalable and useful digital products.
 
 Most of my work lives at the intersection of:
 
